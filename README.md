@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Sivasdata
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Sivasdata/Sivasdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Business Analyst
+- 🌱 I’m currently learning SQL. 
+- 💞️ I’m looking to collaborate on corporates. 
+- 📫 How to reach me sivabalan.chellamuthu@gmail.com and +91 7639126775
